@@ -1,0 +1,18 @@
+{
+  "name": "box-score-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Franchise",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "fs": "0.0.1-security",
+    "readline": "^1.3.0",
+    "request": "^2.88.2",
+    "requst": "0.0.1-security"
+  }
+}
